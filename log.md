@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: July 30, 2019
-##### (delete me or comment me out)
 
 **Today's Progress**: Starting HTML & CSS
 
