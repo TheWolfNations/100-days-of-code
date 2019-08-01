@@ -8,11 +8,12 @@
 
 **Link to site to join in on the challenge:** (https://learn.freecodecamp.org/)
 
+
 ### Day 1: August 1, 2019
 
-**Today's Progress**: ----
+**Today's Progress**: Finished Applied Visual Design & Applied Accessibility
 
-**Thoughts**: ----
+**Thoughts**: It was two very intresting modules, Visual Design followed up from the CSS with animations which was intriguing to see how keyframes worked & Accessibility helped learn & understand how we code to help improve our websites for disabled people and the different things to keep in mind while working on a website.
 
 **Link(s) to work**: ----
 
@@ -23,6 +24,4 @@
 
 **Thoughts** ----
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work** ----
